@@ -1,3 +1,7 @@
+[![Language](https://img.shields.io/badge/language-Javascript-green.svg?style=for-the-badge)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![MIT](https://shields.io/badge/license-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Issues](https://img.shields.io/github/issues/jonosur/m3u4u-extension?style=for-the-badge)](https://github.com/jonosur/m3u4u-extension/issues)
+
 ### M3U4U EXTENSION
 
 This is a unpacked chrome extension for m3u4u and EPGSHARE01, this is a third party extension.
