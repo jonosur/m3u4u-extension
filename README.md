@@ -23,3 +23,7 @@ Currently it will mark input fields teal if it matches a result on EPGSHARE01 an
 - Add theme selection so it doesn't have to be teal color if people don't want teal.
 - Change source for cors proxy server, maybe run locally.
 - Change it so that loading the extension and pressing the update list from the extension menu are the only external fetch of the EPGSHARE01.txt, accessing m3u4u.com should pull from a local file.
+
+### UPDATE
+
+- Version 2.0 will be published Jan 1st, 2026.
